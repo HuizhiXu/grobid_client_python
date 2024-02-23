@@ -22,3 +22,4 @@ build/
 dist/
 grobid_client_python.egg-info/
 data/
+config.ini
